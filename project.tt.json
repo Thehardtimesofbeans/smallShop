@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "smallShop",
+  "appid": "wxae446a5dc61c3940",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
